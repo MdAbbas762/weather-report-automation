@@ -4,6 +4,14 @@ A data-driven reporting solution that brings together weather records and public
 
 ---
 
+## 🎥 Demo
+
+A complete walkthrough of the automation is available below.
+
+[![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Demo-Loom-625DF5?style=for-the-badge&logo=loom&logoColor=white)](https://www.loom.com/share/8c9ceb12cebd4affb85eb38da7c06a17)
+
+---
+
 ## 📖 Overview
 
 This project automates the preparation of a monthly weather report using Make.com. Weather data and public holiday information are retrieved through HTTP requests, processed through multiple transformation steps, and combined into a structured report.
