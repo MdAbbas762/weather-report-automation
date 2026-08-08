@@ -215,6 +215,14 @@ This project demonstrates practical use of several Make.com concepts within one 
 
 ---
 
+## 📦 Make.com Blueprint
+
+The repository includes the Make.com blueprint used to build the automation.
+
+The blueprint allows the scenario structure, modules, mappings, functions, aggregators, data processing, and error-handling configuration to be inspected directly.
+
+---
+
 ## 💡 Project Highlights
 
 - Dynamic processing of weather records
