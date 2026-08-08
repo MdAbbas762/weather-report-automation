@@ -195,6 +195,18 @@ This project demonstrates practical use of several Make.com concepts within one 
 
 ---
 
+## 📸 Workflow
+
+![Full Workflow](screenshots/full-workflow.png)
+
+![Data Retrieval & Initial Processing](screenshots/weather-data-retrieval.png)
+
+![Weather Data Analysis](screenshots/weather-data-analysis-and-processing.png)
+
+![Report Generation & Delivery](screenshots/report-generation.png)
+
+---
+
 ## 💡 Project Highlights
 
 - Dynamic processing of weather records
